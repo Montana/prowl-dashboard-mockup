@@ -8,6 +8,8 @@ Mockup for the Prowl Web Portal made by Jake Augunas
   <img src="http://www.getprowl.com/assets/images/mockup.png">
 </p>
 
+## Without Notes 
+
 <p align="center">
   <img src="http://www.getprowl.com/assets/images/mockupnonotes.png">
 </p>
