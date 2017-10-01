@@ -13,3 +13,6 @@ Mockup for the Prowl Web Portal made by Jake Augunas
 <p align="center">
   <img src="http://www.getprowl.com/assets/images/mockupnonotes.png">
 </p>
+
+
+The dashboards, can be accessed by https://www.getprowl.com/company (where company is, your company URL). 
