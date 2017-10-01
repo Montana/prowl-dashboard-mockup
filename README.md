@@ -1,4 +1,4 @@
-# prowl-dashboard-mockup-
+# prowl-dashboard-mockup
 Mockup for the Prowl Web Portal made by Jake Augunas 
 
 ## With Notes 
