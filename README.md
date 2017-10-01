@@ -1,5 +1,5 @@
 # prowl-dashboard-mockup
-Mockup for the Prowl Web Portal made by Jake Augunas 
+Mockup for the Prowl Web Portal made by co-founder and lead designer of Prowl, Jake Augunas. 
 
 ## With Notes 
 
