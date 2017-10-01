@@ -20,5 +20,5 @@ The dashboards, can be accessed by https://www.getprowl.com/company (where compa
 
 
 <p align="center">
-  <img src="http://www.getprowl.com/team/assets/images/jake.jpg">
+  <img src="http://www.getprowl.com/team/assets/employees/jake.jpg">
 </p>
